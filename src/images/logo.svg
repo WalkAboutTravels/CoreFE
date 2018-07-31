@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 173.034 37.762">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-1 {
+        font-size: 20px;
+        font-family: Lato-Regular, Lato;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: Lato-Thin, Lato;
+        font-weight: 200;
+      }
+
+      .cls-3 {
+        font-size: 11px;
+      }
+    </style>
+  </defs>
+  <g id="Group_50" data-name="Group 50" transform="translate(-0.025 6.915)">
+    <g id="Group_1" data-name="Group 1" transform="translate(48.059 -5.915)">
+      <text id="WALKABOUT" class="cls-1" transform="translate(0 20)"><tspan x="0" y="0">WALK</tspan><tspan class="cls-2" y="0">ABOUT</tspan></text>
+      <text id="TRAVELS" class="cls-3" transform="translate(78.063 33.092)"><tspan x="0" y="0">TRAVELS</tspan></text>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(0.025 -2.658)">
+      <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+        <g id="Group_2" data-name="Group 2">
+          <path id="Path_1" data-name="Path 1" class="cls-4" d="M30.793,29.147H1.447A1.426,1.426,0,0,1,.2,28.43,1.523,1.523,0,0,1,.2,27L14.877,1.617a1.435,1.435,0,0,1,2.485,0L32.036,27a1.523,1.523,0,0,1,0,1.434A1.336,1.336,0,0,1,30.793,29.147ZM3.932,26.279H28.308L16.12,5.2Z" transform="translate(-0.025 -0.9)"/>
+        </g>
+        <g id="Group_3" data-name="Group 3" transform="translate(10.324)">
+          <path id="Path_2" data-name="Path 2" class="cls-4" d="M52.393,29.147H23.047A1.426,1.426,0,0,1,21.8,28.43,1.523,1.523,0,0,1,21.8,27L36.477,1.617a1.435,1.435,0,0,1,2.485,0L53.636,27.044a1.523,1.523,0,0,1,0,1.434A1.386,1.386,0,0,1,52.393,29.147ZM25.532,26.279H49.908L37.72,5.2Z" transform="translate(-21.625 -0.9)"/>
+        </g>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(7.671 8.938)">
+        <path id="Path_3" data-name="Path 3" class="cls-4" d="M41.991,44.167a1.386,1.386,0,0,1-1.243-.717L29.66,23.949,18.763,43.4a1.435,1.435,0,1,1-2.485-1.434L28.465,20.317a1.426,1.426,0,0,1,1.243-.717h0a1.426,1.426,0,0,1,1.243.717l12.331,21.7a1.463,1.463,0,0,1-.526,1.96A1.639,1.639,0,0,1,41.991,44.167Z" transform="translate(-16.074 -19.6)"/>
+      </g>
+    </g>
+  </g>
+</svg>
